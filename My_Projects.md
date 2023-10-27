@@ -44,18 +44,23 @@
     - Description: Find Correlation between columns in dataset
     - Link: https://gist.github.com/ryandhubbard/caf9048ce2ccb85ad8f8b8e552c0d0d5
 
-- **Sync two Directories**
-    - Description: Sync two folder directories using Python
-    - Link: https://gist.github.com/ryandhubbard/34234f8cb2a13bf247b872f9c199dbf0
-
 - **Split csv file randomly for AB Test**
     - Description: take cvs file and split randomly for AB Testing Segmentation
     - Link: https://gist.github.com/ryandhubbard/cf05a83a863a21bf6d219c059f3c5be1
+
+
+ - **Scrape App Stores for Reviews**
+    - Description: Scrape top app reviews for a list of iOS and Android Apps, then email the results to yourself.  Helps you keep track of your competitors and what people are saying about them.
+    - Link: https://gist.github.com/ryandhubbard/c8b38c71aad364c0bca13fe6dc29fea6
 
 - **Generate word cloud from text file**
     - Description: Generate word cloud from text file
     - Link: https://gist.github.com/ryandhubbard/ae243f108e49efb2d92ec77e330dc4c2
         ![Word Cloud](https://user-images.githubusercontent.com/935207/271796667-716d976a-a3c0-40ec-8c22-83acd1ab6470.png)
+
+- **Sync two Directories**
+    - Description: Sync two folder directories using Python
+    - Link: https://gist.github.com/ryandhubbard/34234f8cb2a13bf247b872f9c199dbf0
 
  ## SQL (Useful Queries)
 
