@@ -54,7 +54,7 @@
 
  - **Copy files from sftp server to s3bucket**
     - Description: Copy files from a sftp server to a s3 bucket.   This is useful for automating the process of copying files from a sftp server to a s3 bucket.
-    - Link: https://gist.github.com/ryandhubbard/aa8f8d68b711782fd201cb418863f4ae
+    - Link: https://gist.github.com/ryandhubbard/4380eb2b03a94f38d8d488c47460d78e
 
 - **Generate word cloud from text file**
     - Description: Generate word cloud from text file
