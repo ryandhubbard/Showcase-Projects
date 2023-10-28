@@ -48,10 +48,13 @@
     - Description: take cvs file and split randomly for AB Testing Segmentation
     - Link: https://gist.github.com/ryandhubbard/cf05a83a863a21bf6d219c059f3c5be1
 
-
  - **Scrape App Stores for Reviews**
     - Description: Scrape top app reviews for a list of iOS and Android Apps, then email the results to yourself.  Helps you keep track of your competitors and what people are saying about them.
     - Link: https://gist.github.com/ryandhubbard/c8b38c71aad364c0bca13fe6dc29fea6
+
+ - **Copy files from sftp server to s3bucket**
+    - Description: Copy files from a sftp server to a s3 bucket.   This is useful for automating the process of copying files from a sftp server to a s3 bucket.
+    - Link: https://gist.github.com/ryandhubbard/aa8f8d68b711782fd201cb418863f4ae
 
 - **Generate word cloud from text file**
     - Description: Generate word cloud from text file
